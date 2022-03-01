@@ -1,3 +1,3 @@
 ## Proyecto de ecommerce
 
-()[https://urielcode.github.io/proyecto-tienda/]
+[Link de la página](https://urielcode.github.io/proyecto-tienda/)
